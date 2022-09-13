@@ -1,4 +1,4 @@
-public class TicTacToe_井字游戏 {
+public class TicTacToe井字游戏_分类 {
     /**
      * 通过字符串表示盘面，判断有没有可能最终形成某种盘面，难度在于盘面可能没下完
      * X 先手
